@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "YouTube Key Master",
+		"description": "Extension name"
+
+  },
+  "extDesc": {
+    "message": "YouTube playback control shortcut overrides and fix for the play/pause button spacebar auto-pausing bug. No matter what video control is focused: Vertical arrows always control volume; Horizontal arrows always control seeking; Spacebar and enter always toggle the paused state.",
+    "description": "Extension description"
+  }
+}
